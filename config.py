@@ -1,6 +1,6 @@
 # DB Info
-user = ""
-password = ""
-host = ""
-port = ""
-database = ""
+user = "postgres"
+password = "postgres"
+host = "localhost"
+port = "5432"
+database = "EducationDB"
